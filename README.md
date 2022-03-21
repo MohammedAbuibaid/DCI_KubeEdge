@@ -1,5 +1,5 @@
 # DCI_KubeEdge
-Using the node_setup bash script, install docker, kubeadm, kubectl, kubelet, and keadm on all three nodes (central and edge clouds):
+Using the [node_setup](https://github.com/MohammedAbuibaid/DCI_KubeEdge/blob/master/node_setup.sh) bash script, install docker, kubeadm, kubectl, kubelet, and keadm on all three nodes (central and edge clouds):
 ```
 bash node_setup.sh
 ```
